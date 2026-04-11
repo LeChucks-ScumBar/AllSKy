@@ -1,4 +1,4 @@
-#AllSky to Go STSCI
+# AllSky to Go STSCI Waldbröl
 ![single image with data](./Images/image-20260406215048.jpg)
 
 ## how to install
