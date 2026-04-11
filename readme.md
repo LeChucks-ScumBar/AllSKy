@@ -59,7 +59,7 @@ Now you can overlay this image with your camera Picture. Go to your Webbrowser a
 ## install gps
 For installing the gps-module I have used the install manuel from Allsky_go
 [AllskyGo_GPS_install](https://github.com/Chrise-2000/Allsky_Go/blob/main/C_Installation%20Manual%20v3.0.pdf)
-Use a usb-hps-module were you can connect with your pi. IF you don´t want to use a or you haven`t an gps-module enter you coordinates in ~/allskygps_coords.txt
+Use a usb-gps-module were you can connect with your pi. IF you don´t want to use a or you haven`t an gps-module enter you coordinates in ~/allskygps_coords.txt
 
 
 ![Startrail](./Images/startrails-20260406.jpg)
