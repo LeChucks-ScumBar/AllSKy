@@ -62,4 +62,9 @@ For installing the gps-module I have used the install manuel from Allsky_go
 Use a usb-hps-module were you can connect with your pi. IF you don´t want to use a or you haven`t an gps-module enter you coordinates in ~/allskygps_coords.txt
 
 
-![Startrail](./Images/startrails-20260406)
+![Startrail](./Images/startrails-20260406.jpg)
+
+## External Links from were I have used for this project
+[Original AllSky](https://github.com/AllskyTeam/allsky)
+[AllSky Modules](https://github.com/AllskyTeam/allsky-modules)
+[AllSky Go](https://github.com/Chrise-2000/Allsky_Go)
