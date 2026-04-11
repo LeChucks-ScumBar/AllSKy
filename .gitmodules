@@ -6,3 +6,7 @@
 	path = Submoduls/allsky-modules
 	url = https://github.com/LeChucks-ScumBar/allsky-modules.git
 	branch = master
+[submodule "Submoduls/Allsky_Go_go_go"]
+	path = Submoduls/Allsky_Go_go_go
+	url = https://github.com/LeChucks-ScumBar/Allsky_Go_go_go.git
+	branch = main
