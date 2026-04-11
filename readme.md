@@ -1,9 +1,12 @@
-*how to install
+#AllSky to Go STSCI
+![single image with data](./Images/image-20260406215048.jpg)
+
+## how to install
 
 copy all files in the home Directory. 
 
 
-**Setup crontab
+## Setup crontab
 
 ````
 crontab -e
@@ -18,7 +21,7 @@ add this two cronjobs
 
 
 
-*install skyfield for moon diagram
+## install skyfield for moon diagram
 
 ```
 pip3 install skyfield matplotlib numpy
@@ -53,8 +56,10 @@ pip install skyfield --break-system-packages
 Now you can overlay this image with your camera Picture. Go to your Webbrowser and to your allsky Webpage. Go to the "Overlay Editor" and Chose "add Existing Image Field". In the image menue you can select moon_height.png.
 
 
-*install gps
+## install gps
 For installing the gps-module I have used the install manuel from Allsky_go
 [AllskyGo_GPS_install](https://github.com/Chrise-2000/Allsky_Go/blob/main/C_Installation%20Manual%20v3.0.pdf)
 Use a usb-hps-module were you can connect with your pi. IF you don´t want to use a or you haven`t an gps-module enter you coordinates in ~/allskygps_coords.txt
 
+
+![Startrail](./Images/startrails-20260406)
