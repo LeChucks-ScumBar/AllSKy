@@ -1,0 +1,8 @@
+[submodule "Submoduls/allsky_original"]
+	path = Submoduls/allsky_original
+	url = https://github.com/LeChucks-ScumBar/allsky_original.git
+	branch = master
+[submodule "Submoduls/allsky-modules"]
+	path = Submoduls/allsky-modules
+	url = https://github.com/LeChucks-ScumBar/allsky-modules.git
+	branch = master
