@@ -64,7 +64,10 @@ Use a usb-hps-module were you can connect with your pi. IF you don´t want to us
 
 ![Startrail](./Images/startrails-20260406.jpg)
 
-## External Links from were I have used for this project
+## External Links 
+External Projects Links were I have used for this project
 [Original AllSky](https://github.com/AllskyTeam/allsky)
+
 [AllSky Modules](https://github.com/AllskyTeam/allsky-modules)
+
 [AllSky Go](https://github.com/Chrise-2000/Allsky_Go)
