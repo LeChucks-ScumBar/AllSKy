@@ -87,7 +87,9 @@ External Projects Links were I have used for this project
 
 [AllSky Go](https://github.com/Chrise-2000/Allsky_Go)
 
-##Images
+## Images
 ![Version 1 Top, 125 KG Rohr, with ZWO715MC](./Images/AllSkyGoV1_Top.jpg)
+
 ![Version 1 Bottom, 125 KG Rohr with ZWO715MC](./Images/AllSkyGoV1_Bottom.jpg)
+
 ![Version 2 with bigger battery and PiHQ camera](./Images/AllSkyGoV2.jpg)
