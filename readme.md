@@ -61,6 +61,8 @@ For installing the gps-module I have used the install manuel from Allsky_go
 [AllskyGo_GPS_install](https://github.com/Chrise-2000/Allsky_Go/blob/main/C_Installation%20Manual%20v3.0.pdf)
 Use a usb-gps-module were you can connect with your pi. IF you don´t want to use a or you haven`t an gps-module enter you coordinates in ~/allskygps_coords.txt
 
+## weather data
+For overlay weather data I`ve used the open weather module from allsky-modules. You need only a open-weather apy-key. Registration at https://openweathermap.org/ is free, and data can be accessed up to 3,600 times a day at no additional cost.
 
 ![Startrail](./Images/startrails-20260406.jpg)
 ## Material
@@ -84,3 +86,8 @@ External Projects Links were I have used for this project
 [AllSky Modules](https://github.com/AllskyTeam/allsky-modules)
 
 [AllSky Go](https://github.com/Chrise-2000/Allsky_Go)
+
+##Images
+![Version 1 Top, 125 KG Rohr, with ZWO715MC](./Images/AllSkyGoV1_Top.jpg)
+![Version 1 Bottom, 125 KG Rohr with ZWO715MC](./Images/AllSkyGoV1_Bottom.jpg)
+![Version 2 with bigger battery and PiHQ camera](./Images/AllSkyGoV2.jpg)
